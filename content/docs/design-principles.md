@@ -1,6 +1,6 @@
 ---
 id: design-principles
-title: Design Principles
+title: Tasarım Prensipleri
 layout: contributing
 permalink: docs/design-principles.html
 prev: implementation-notes.html
@@ -8,13 +8,13 @@ redirect_from:
   - "contributing/design-principles.html"
 ---
 
-We wrote this document so that you have a better idea of how we decide what React does and what React doesn't do, and what our development philosophy is like. While we are excited to see community contributions, we are not likely to choose a path that violates one or more of these principles.
+Bu dökümanı React'ın ne yaptığına ve neyi yapmadığına nasıl karar verdiğimiz ve geliştirme felsefemizin neye benzediği hakkında fikir sahibi olmanız için yazdık. Topluluğun katkı vermesinden heyecan duyarken, bu ilkelerden birini veya birden fazlasını ihlal edemeyiz.
 
->**Note:**
+>**Not:**
 >
->This document assumes a strong understanding of React. It describes the design principles of *React itself*, not React components or applications.
+>Bu belge çok iyi bir React bilgisi gerektirir. React bileşenlerini veya uygulamalarını değil, *React'ın kendisinin* tasarım prensiplerini tanımlar. 
 >
->For an introduction to React, check out [Thinking in React](/docs/thinking-in-react.html) instead.
+>Bir React tanıtımı için bunun yerine [React'te Düşünmek](/docs/thinking-in-react.html) sayfasına göz atın.
 
 ### Composition {#composition}
 
